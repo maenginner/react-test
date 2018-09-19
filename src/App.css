@@ -1,0 +1,33 @@
+a {
+  color:#4078c0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.app {
+  width: 50%;
+  margin: 50px auto 0 auto;
+  color: #4f4f4f;
+}
+
+.search-form {
+  margin: 0 auto;
+  width: 620px;
+}
+
+.user-input {
+  width: 530px;
+}
+
+.submit-form {
+  width: 80px;
+}
+
+.member-check {
+  display: block;
+  margin-top: 15px;
+  font-size: 12px;
+}
